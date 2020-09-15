@@ -116,7 +116,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : [research](https://lirias.kuleuven.be/handle/123456789/638748)
+  cv               : 
+  links            :
+    - lable: "CV"
+    - icon: "fab fa-fw fa-twitter-square"
+    - url: "http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume.pdf"
 
 
 # Reading Files
