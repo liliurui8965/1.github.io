@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+About me
+------
+I'm experieced Mechanical Engineer.
 
 
