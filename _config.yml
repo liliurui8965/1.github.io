@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Liurui Li"
+  name             : "Liurui Li"
   avatar           : "self1.jpg"
   bio              : "Research assistant at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YxdkFxcAAAAJ&hl=zh-CN&authuser=1&oi=ao"
-  email            :
+  email            : "liliurui8965@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Liurui_Li_Resume.pdf"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
