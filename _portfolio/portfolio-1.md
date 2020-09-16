@@ -1,6 +1,6 @@
 ---
 title: "Automated Manufacturing System Development for Battery Recycling"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/><img src='/images/P-1-1'>"
 collection: portfolio
 ---
 
