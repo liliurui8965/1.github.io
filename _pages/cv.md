@@ -60,24 +60,15 @@ RELEVANT PROJECTS
   * Innovated micro-through-hole laser drilling technique towards silicone material. Enabled nozzle fabrication on silicone sheet utilizing fiber laser.
   * Optimized fabrication parameters of the laser micro-milling process on silicone material by Taguchi DOE methods. Decreased production period of linear nozzle array from 12h to 0.5h.
 
-Publications
+* Potential Energy Driven Self-Steering Vehicle Design and Prototype
+  * Designed and modeled the mechanism of the power train and inner cam guided self-steering system with Solidworks. Simulated the motion trail of the designed vehicle with Adams motion simulation.
+  * Machined parts with wire-electrode cutting, CNC milling, lathing and 3D printing.
+  * Manually assembled the prototype vehicle. Tripled the university record on this project in the test run.
+
+PUBLICATIONS & PATENTS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
