@@ -1,7 +1,7 @@
 ---
 title: "Automated Manufacturing System Development for Battery Recycling"
 excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/>
-![useful image](http://liliurui8965.github.io/1.github.io/images/P-1-3.PNG | width=48)"
+![useful image](http://liliurui8965.github.io/1.github.io/images/P-1-3.PNG )"
 collection: portfolio
 ---
 
