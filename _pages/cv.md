@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click here to download my CV](http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume)
+[Click here to download my CV](http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume.pdf)
 
 
 Education
