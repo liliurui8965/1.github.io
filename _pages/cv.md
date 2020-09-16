@@ -20,12 +20,18 @@ Education
 Skills
 ======
 * Competencies
-  * Skill 2
-  * Skill 3
+  * Machinery designing: GD&T, Design for Manufacturing, Design for Assembly, and DVP&R
+  * Rapid Prototyping: CNC-machining, Laser Cutting, Laser Micro-milling, and 3D Printing
+  * Electro-mechanical system control with motion-control card, Matlab, PLCs, and LabVIEW
+  * Production process R&D utilize Design of Experiments(DOE) and statistical process control(SPC)
+  * Li-ion Battery R&D: Electrode Coating, Cell Assembly, Rate/Cycle Performance Test, and Data Analysis
+* Softwares
+  * 2D and 3D CAD modeling: PTC Creo, UG NX, Solidworks, and AutoCAD
+  * Engineering statistics: Minitab, JUMP, Origin, and Matlab
+  * Battery Test System: LandMonitor, LandDataProcessor, and EC-Lab
 
 Work experience
 ======
-
 * Mechanical Engineer Intern, Li industries
   * Designed the battery slicing machine for recycling end-of-life Li-ion batteries from iPhone 6Plus. Performed leading role on proof of concept, Creo CAD design, and DVP&R.
   * Optimized the operating parameters of the battery cathode powder recovery process with Fractional Factorial DOE. Drafted SOPs for front-line workers.
@@ -36,7 +42,23 @@ Work experience
   * Designed the plastic battery module shell for portable household appliances. Applied structural FEA with Abaqus.
   * Generated 3D model and 2D drawing of the plastic battery module shell with SolidWorks and AutoCAD.
   
+RELEVANT PROJECTS
+======
+* Automated Production System Design and Prototype for Recycling End-of-life Li-ion Batteries
+  * Designed and prototyped transporters, fixers, and endeffectors for precision battery material handling in the automated disassembly system with UGNX and multiple rapid prototyping techniques.
+  * Designed and implemented the mechatronic system with micro-controller boards and LabVIEW. Integrated 14 stepper/servo motors, 3 pneumatic fixtures, 2 pressure sensors, and 3 industrial cameras.
+  * Design failure analysis utilizing Fishbone Diagrams and DFMEA.
+  * Cooperated closely with Industrial Engineers on building computer vision based closed loop smart control system for defects elimination.
 
+* Production process R&D for recycling end-of-life Li-ion batteries
+  * Optimized operating parameters of cathode separation and re-energizing process by Taguchi DOE methods and regression analysis.
+  * Evaluated properties of the re-energized lithium cobalt oxide materials by SEM, ICP, and XRD tests.
+  * Characterized electrochemical performance of the re-energized lithium cobalt oxide materials. Performed slurry mixing, electrode coating, cell assembly, rate/cycle performance test, and data analysis.
+
+* Thin film coating process R&D for perovskite solar cell membrane printing
+  * Designed and prototpyed slicone-based multiplexed-electrospray system for perovskite solar cell thin film coating. Achieved an average power conversion efficiency of 14.7%.
+  * Innovated micro-through-hole laser drilling technique towards silicone material. Enabled nozzle fabrication on silicone sheet utilizing fiber laser.
+  * Optimized fabrication parameters of the laser micro-milling process on silicone material by Taguchi DOE methods. Decreased production period of linear nozzle array from 12h to 0.5h.
 
 Publications
 ======
