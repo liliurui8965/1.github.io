@@ -1,6 +1,6 @@
 ---
-title: ""
-excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/> <img src='/images/P-1-3.PNG'"
+title: "Lithium-ion Battery Direct Recycling Approach"
+excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/> ![useful image](http://liliurui8965.github.io/1.github.io/images/P-1-3.PNG)"
 collection: portfolio
 ---
 
