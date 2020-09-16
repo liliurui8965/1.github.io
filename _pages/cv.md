@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Click here to download my CV](http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume)"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click here to download my CV](http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume)
+
 
 Education
 ======
@@ -17,22 +19,20 @@ Education
 
 Skills
 ======
-Competencies
-------
-* Skill 2
-* Skill 3
+* Competencies
+  * Skill 2
+  * Skill 3
 
 Work experience
 ======
-Mechanical Engineer Intern, Li industries
-------
+
+* Mechanical Engineer Intern, Li industries
   * Designed the battery slicing machine for recycling end-of-life Li-ion batteries from iPhone 6Plus. Performed leading role on proof of concept, Creo CAD design, and DVP&R.
   * Optimized the operating parameters of the battery cathode powder recovery process with Fractional Factorial DOE. Drafted SOPs for front-line workers.
   * Troubleshooted the filtration system of a commercial Filter Drier with PTFE Hydrophobic Membrane Filters. Improved powder-liquid separation efficiency from 75.0% to 97%.
   * Worked closely with OEMs to facilitate the delivery of key machineries for the battery disassembly line.
 
-Mechanical Engineer Inter, Joyoung Company Limited
-------
+* Mechanical Engineer Intern, Joyoung Company Limited
   * Designed the plastic battery module shell for portable household appliances. Applied structural FEA with Abaqus.
   * Generated 3D model and 2D drawing of the plastic battery module shell with SolidWorks and AutoCAD.
   
