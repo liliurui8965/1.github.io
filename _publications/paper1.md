@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-10-01
 venue: 'Journal of The Minerals, Metals Materials Society'
 paperurl: ''
-citation: ''
+
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
