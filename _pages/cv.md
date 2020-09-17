@@ -11,8 +11,7 @@ redirect_from:
 [Click here to download my CV](http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume.pdf)
 
 
-<p align="justify">
-</p>
+
 Education
 ======
 * Ph.D in Mechanical Engineering, Virginia Tech, 2020 
@@ -26,7 +25,7 @@ Skills
   * <p align="justify">Rapid Prototyping: CNC-machining, Laser Cutting, Laser Micro-milling, and 3D Printing
   * <p align="justify">Electro-mechanical system control with motion-control card, Matlab, PLCs, and LabVIEW
   * <p align="justify">Production process R&D utilize Design of Experiments(DOE) and statistical process control(SPC)
-  * <p align="justify">Li-ion Battery R&D: Electrode Coating, Cell Assembly, Rate/Cycle Performance Test, and Data Analysis
+  * <p align="justify">Li-ion Battery R&D: Electrode Coating, Cell Assembly, Rate/Cycle Performance Test, and Data Analysis</p>
 * Softwares
   * 2D and 3D CAD modeling: PTC Creo, UG NX, Solidworks, and AutoCAD
   * Engineering statistics: Minitab, JUMP, Origin, and Matlab
@@ -42,7 +41,7 @@ Work experience
 
 * Mechanical Engineer Intern, Joyoung Company Limited
   * <p align="justify">Designed the plastic battery module shell for portable household appliances. Applied structural FEA with Abaqus.
-  * <p align="justify">Generated 3D model and 2D drawing of the plastic battery module shell with SolidWorks and AutoCAD.
+  * <p align="justify">Generated 3D model and 2D drawing of the plastic battery module shell with SolidWorks and AutoCAD.</p>
   
 RELEVANT PROJECTS
 ======
@@ -65,7 +64,7 @@ RELEVANT PROJECTS
 * Potential Energy Driven Self-Steering Vehicle Design and Prototype
   * <p align="justify">Designed and modeled the mechanism of the power train and inner cam guided self-steering system with Solidworks. Simulated the motion trail of the designed vehicle with Adams motion simulation.
   * <p align="justify">Machined parts with wire-electrode cutting, CNC milling, lathing and 3D printing.
-  * <p align="justify">Manually assembled the prototype vehicle. Tripled the university record on this project in the test run.
+  * <p align="justify">Manually assembled the prototype vehicle. Tripled the university record on this project in the test run.</p>
 
 PUBLICATIONS & PATENTS
 ======
