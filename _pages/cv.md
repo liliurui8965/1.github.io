@@ -12,6 +12,7 @@ redirect_from:
 
 
 <p align="justify">
+</p>
 Education
 ======
 * Ph.D in Mechanical Engineering, Virginia Tech, 2020 
@@ -34,8 +35,8 @@ Skills
 Work experience
 ======
 * Mechanical Engineer Intern, Li industries
-  * Designed the battery slicing machine for recycling end-of-life Li-ion batteries from iPhone 6Plus. Performed leading role on proof of concept, Creo CAD design, and DVP&R.
-  * Optimized the operating parameters of the battery cathode powder recovery process with Fractional Factorial DOE. Drafted SOPs for front-line workers.
+  * <p align="justify">Designed the battery slicing machine for recycling end-of-life Li-ion batteries from iPhone 6Plus. Performed leading role on proof of concept, Creo CAD design, and DVP&R.</p>
+  * <p align="justify">Optimized the operating parameters of the battery cathode powder recovery process with Fractional Factorial DOE. Drafted SOPs for front-line workers.
   * Troubleshooted the filtration system of a commercial Filter Drier with PTFE Hydrophobic Membrane Filters. Improved powder-liquid separation efficiency from 75.0% to 97%.
   * Worked closely with OEMs to facilitate the delivery of key machineries for the battery disassembly line.
 
@@ -72,4 +73,4 @@ PUBLICATIONS & PATENTS
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-</p>
+
