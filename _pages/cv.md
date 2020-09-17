@@ -11,6 +11,7 @@ redirect_from:
 [Click here to download my CV](http://liliurui8965.github.io/1.github.io/files/Liurui_Li_Resume.pdf)
 
 
+<p align="justify">
 Education
 ======
 * Ph.D in Mechanical Engineering, Virginia Tech, 2020 
@@ -71,4 +72,4 @@ PUBLICATIONS & PATENTS
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+</p>
