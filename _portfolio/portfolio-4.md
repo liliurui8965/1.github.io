@@ -1,6 +1,8 @@
 ---
 title: "Multiplexed Electrospray System for Coating Perovskite Solar Cell"
-excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/> ![useful image](http://liliurui8965.github.io/1.github.io/images/P-4-1.PNG)"
+excerpt: "The major project of my MS research aiming at fabricating multiplexed electrospray  emitters by fapid laser micromachining. <br/> 
+
+![useful image](http://liliurui8965.github.io/1.github.io/images/P-4-1.PNG)"
 collection: portfolio
 ---
 

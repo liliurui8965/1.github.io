@@ -1,6 +1,8 @@
 ---
 title: "End-of-life LFP Cathode Coating Re-synthesis"
-excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/> ![useful image](http://liliurui8965.github.io/1.github.io/images/P-3-2.PNG)"
+excerpt: "A project of my Ph.D research aiming at re-synthesis end-of-life lithium-ion-phosphate material through a single step heat sintering. <br/> 
+
+![useful image](http://liliurui8965.github.io/1.github.io/images/P-3-2.PNG)"
 collection: portfolio
 ---
 

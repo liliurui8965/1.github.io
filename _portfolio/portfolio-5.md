@@ -1,6 +1,8 @@
 ---
 title: "Potential Energy Driven Self-Steering Vehicle Design and Prototype"
-excerpt: "The major project of my Ph.D research aiming at facilitating battery material product life cycle fulfillment. <br/> ![useful image](http://liliurui8965.github.io/1.github.io/images/P-5-2.PNG)"
+excerpt: "A mechinary design project I accomplished as a team leader while pursuing my BS degree. <br/> 
+
+![useful image](http://liliurui8965.github.io/1.github.io/images/P-5-2.PNG)"
 collection: portfolio
 ---
 
