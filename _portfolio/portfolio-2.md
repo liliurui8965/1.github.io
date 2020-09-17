@@ -1,8 +1,6 @@
 ---
 title: "Lithium-ion Battery Cathode Coating Separation Process Optimization"
-excerpt: "A project of my Ph.D research aiming at increase the yield of battery cathode material separation process utilizing Design of Experiemnts and Regression Analysis. <br/> 
-
-![useful image](http://liliurui8965.github.io/1.github.io/images/P-2-1.PNG)"
+excerpt: "A project of my Ph.D research aiming at increase the yield of battery cathode material separation process utilizing Design of Experiemnts and Regression Analysis. <br/>"
 collection: portfolio
 ---
 
