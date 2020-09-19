@@ -4,13 +4,13 @@ excerpt: "The major project of my MS research aiming at fabricating multiplexed 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In project document the design rationale, fabrication, and operation of silicone based, laser micro-machined multiplexed electrospray emitters. I used an inexpensive 1064-nm fiber laser marker to precisely and rapidly machine micro nozzle arrays out of a silicone sheet. The laser pulse energy and path are judiciously chosen to create clean and round micro posts that form the external structure of the nozzles. The use of sacrifice layers noticeably improve the machining quality of the nozzle, namely the roundness of the laser-drilled holes. The results suggest that the laser marker is fully capable of handling micro drilling, milling, and engraving tasks on the carbon black filled silicone sheets. The laser micromachining method strikes a good balance among precision, speed, convenience, and cost. Decent uniformity of the cone-jet diameter (RSD ¼ 10%) among the entire multiplexed electrospray emitter array has been demonstrated. 
 
 ![useful image](http://liliurui8965.github.io/1.github.io/images/P-4-1.PNG)<br />
-*System Overview*
+*The distributer-extractor-collector configuration of multiplexed electrospray.*
 
 ![useful image](http://liliurui8965.github.io/1.github.io/images/P-4-2.PNG)<br />
-*Control Archetecture*
+*(left) 16 by 16 nozzle array surrounded by dummy nozzles. (right) SEM image (45 degree tilted view) of a single nozzle.*
 
 ![useful image](http://liliurui8965.github.io/1.github.io/images/P-4-3.PNG)<br />
-*Control Archetecture*
+*The spray profile from the laser-machined linear emitter array at different liquid electrical conductivity (a) k=0.4 uS/cm and (b) k=4.2 uS/cm.*
