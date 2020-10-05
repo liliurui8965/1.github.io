@@ -13,4 +13,4 @@ redirect_from:
 
 About me
 ------
-I'm an experienced Mechanical Engineer.
+I am a Ph.D. new grad from Virginia Tech. As a  mechanical engineer by training, I also got strong backgrounds in manufacturing automation and engineering statistics. 
